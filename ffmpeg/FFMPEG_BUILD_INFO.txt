@@ -1,0 +1,7 @@
+Media3:   1.11.1 (8c6678b657ede1e7883fc164ef73ed483c7796c3)
+FFmpeg:   release/6.0 (573f2b81ebd97da81def2ba762e81b0328547004)
+          https://git.ffmpeg.org/ffmpeg.git
+Decoders: mp3 ac3 eac3 dca
+NDK:      26.1.10909125
+API:      24
+Licença:  FFmpeg LGPL 2.1+ (CONFIG_GPL=0, CONFIG_NONFREE=0); extensão Media3 Apache 2.0
